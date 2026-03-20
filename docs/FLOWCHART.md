@@ -79,18 +79,18 @@ flowchart LR
 ## 5. Future Platform Architecture
 ```mermaid
 flowchart TD
-    A([wisebuilder.me]) --> B[/ — Resume Portfolio]
-    A --> C[/gift-helper — Project 2]
-    A --> D[/project-3 — TBD]
-    A --> E[/project-4 — TBD]
+    A(["wisebuilder.me"]) --> B["Resume Portfolio - Project 1"]
+    A --> C["Gift Helper - Project 2"]
+    A --> D["Project 3 - TBD"]
+    A --> E["Project 4 - TBD"]
     
-    B --> F[docs/PRD.md]
-    B --> G[docs/FLOWCHART.md]
-    B --> H[docs/INFRA-TOOLING.md]
-    B --> I[docs/RETROSPECTIVE.md]
+    B --> F["docs/PRD.md"]
+    B --> G["docs/FLOWCHART.md"]
+    B --> H["docs/INFRA-TOOLING.md"]
+    B --> I["docs/RETROSPECTIVE.md"]
     
-    C --> J[docs/PRD.md]
-    C --> K[docs/FLOWCHART.md]
+    C --> J["docs/PRD.md"]
+    C --> K["docs/FLOWCHART.md"]
 ```
 
 ---
